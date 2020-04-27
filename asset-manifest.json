@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cards/static/css/main.d1b05096.chunk.css",
+    "main.css": "/cards/static/css/main.fef066b4.chunk.css",
     "main.js": "/cards/static/js/main.35fb1d24.chunk.js",
     "main.js.map": "/cards/static/js/main.35fb1d24.chunk.js.map",
     "runtime-main.js": "/cards/static/js/runtime-main.a9713abb.js",
@@ -8,9 +8,9 @@
     "static/js/2.0ae6c2c4.chunk.js": "/cards/static/js/2.0ae6c2c4.chunk.js",
     "static/js/2.0ae6c2c4.chunk.js.map": "/cards/static/js/2.0ae6c2c4.chunk.js.map",
     "index.html": "/cards/index.html",
-    "precache-manifest.bf98635c00ca59b19762dcf192d20a3b.js": "/cards/precache-manifest.bf98635c00ca59b19762dcf192d20a3b.js",
+    "precache-manifest.e1d2865690aa91502026ee018f3fbc31.js": "/cards/precache-manifest.e1d2865690aa91502026ee018f3fbc31.js",
     "service-worker.js": "/cards/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/cards/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.fef066b4.chunk.css.map": "/cards/static/css/main.fef066b4.chunk.css.map",
     "static/js/2.0ae6c2c4.chunk.js.LICENSE.txt": "/cards/static/js/2.0ae6c2c4.chunk.js.LICENSE.txt",
     "static/media/icon-calculator.svg": "/cards/static/media/icon-calculator.8e4a5574.svg",
     "static/media/icon-karma.svg": "/cards/static/media/icon-karma.ae2dc13d.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.a9713abb.js",
     "static/js/2.0ae6c2c4.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
+    "static/css/main.fef066b4.chunk.css",
     "static/js/main.35fb1d24.chunk.js"
   ]
 }
